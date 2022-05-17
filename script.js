@@ -63,4 +63,4 @@ document.querySelector('.again').addEventListener('click',function(){
 
     document.querySelector('.number').style.width = '15rem';
 });
-// some cahnges
+// some cahnges git 
